@@ -1,0 +1,27 @@
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    cursor: pointer;
+    margin-bottom: 5px;
+}
+
+li.completed {
+    text-decoration: line-through;
+}
+
+button {
+    background-color: lightgreen;
+    color: black;
+    border: none;
+    padding: 4px;
+    border-radius: 5px;
+}
+
+img {
+    width: 10px;
+    height: 10px;
+}
